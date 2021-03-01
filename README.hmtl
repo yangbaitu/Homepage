@@ -1,1 +1,149 @@
-# Homepage
+<DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>脱贫社区：区块链财富密码"</title>
+<link href="hw.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="js.js"></script>
+
+<style type="text/css">
+a:link{ text-decoration:none;}
+li{ list-style-type:none;}
+ul { list-style-type:none;}
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+
+</style> 
+</head>
+<body>
+   
+<div class="tuopinshequ">
+
+<div class=" tophalf">
+<div class="tophalf_wei">
+<div class="top">
+
+<div class="top_logo"><img src="images/tuopinshequ/logo.png"  width="280"></div><!--top_logo-->
+<div class="top_day"><img src="images/switch/day.png"  width="60"></div><!--top_day-->
+
+<div class="top_edit"><!--编辑选区 oncontextmenu=self.event.returnValue=false-->
+<lu class="top_edit_ul">
+<li class="top_edit_ul_li">公链3.0</li>
+<li class="top_edit_ul_li">挖矿收入</li>
+<li class="top_edit_ul_li">软件仓库</li>
+<li class="top_edit_ul_li">系统急救箱</li>
+</lu>
+</div><!--top_edit-->
+</div><!--tophalf_wei-->
+
+</div><!--top-->
+</div><!--tophalf-->
+<div class=" ii">
+<div class=" between">
+<h1 class="ww"><font face="font01">脱贫社区</font></h1>
+<p class="w">脱贫社区，建立一个点对点的区块链项目分享网站，以分享辐射整合各大公链项目资源，通过零门槛、完善整合基础资源打造全网具有价值的区块链公链项社区，引导更多韭菜进入区块链致力于寻找下一代互联网财富密码区块链3.0解决了什么：解决了你找不到真的区块链的难题</p>
+<p class="www"><b>最新版本:版本号</b>v0.1.0 (proton/-)</p>
+</div><!--between-->
+<div class="Intermediatecontent"><!--窗口区，内容区-->
+<div class="Fixed_message_bar"><!--固定消息栏-->
+<div class="news"><!--消息-->
+<img src="images/Scrollbarcontent/news.png"  width="46">
+</div><!--news-->
+<div class=" Scrollingsubtitles"><!--滚动字幕-->
+<marquee  behavior="scroll" background:#747474;">脱贫社区网页V0.1.0(proton/-)版上线了</marquee>
+</div><!--Scrollingsubtitles--><!--滚动字幕-->
+<audio controls autoplay="autoplay" loop="loop">
+<source src="mp3/0.flac"  type="audio/mpeg" />
+</audio>
+</div><!--Fixed_message_bar--><!--固定消息栏-->
+<div class="Editintersection"><!--编辑路口-->
+ <h1 class="Exploringthecourse">探寻历程</h1>
+<div style="height:460px;width:600px;overflow:auto;background:#; margin-top:20px;"><!--滚动条-->
+<div class="Scrollbarcontent"><!--DYN DualityPiNetwork_Pi-->
+<div class="DYN_Duality_title"><a href="/"><img src="images/Scrollbarcontent/DYN_Duality_title.png"  width="280"></a></div>
+<div class="DYN_Duality_content"><a href="/"><img src="images/Scrollbarcontent/DYN_Duality_logo.png"  width="120"></a></div>
+<div class="Introduction_to_dyn_duality">
+<a href="/"><h2>医疗币DYN<em>2017.3.14</em></h2></a>
+<a href="/"><p style=color:#9d9d9d;" top:10;">侧重于医疗、教育、法律和业务服务等领
+域，Duality 为企业解决了安全和隐私问题。</p></a>
+</div><!--Introduction_to_dyn_duality-->
+</div><!--DYN Duality-->
+<div class="Scrollbarcontent">
+<div class="DYN_Duality_title"><img src="images/Scrollbarcontent/PiNetwork_Pi_title.png"  width="280"></div>
+<div class="DYN_Duality_content"><img src="images/Scrollbarcontent/PiNetwork_Pi_logo.png"  width="120"></div>
+<div class="Introduction_to_dyn_duality">
+<h2>派币PiNetwork<em>2017.3.14</em></h2>
+<p style=color:#9d9d9d;" top:10;">侧重于医疗、教育、法律和业务服务等领
+域，Duality 为企业解决了安全和隐私问题。</p>
+</div><!--Introduction_to_dyn_duality-->
+</div><!--DYN Duality-->
+</div><!--滚动条-->
+</div><!--Editintersection--><!--编辑路口-->
+
+<div class="da"><!--da-->
+<div id="notice" class="notice">
+<div class="notice-tit" id="notice-tit">
+<ul>
+<li class="select"><a href="#"><a href="#">公告</a></li>
+<li><a href="#">更新</a></li>
+<li><a href="#">论坛</a></li>
+<li><a href="#">安全</a></li>
+<li><a href="#">活动</a></li>
+</ul>
+</div>
+<div id="notice-con" class="notice-con">
+<div class="mod" style="display: block;">脱贫社区网页V0.1.0(proton/-)版上线了</div>
+<div class="mod" style="display: none;">更新中	</div>
+<div class="mod" style="display: none;">更新中	</div>
+<div class="mod" style="display: none;">本网站以去中心化为理念无须账号登录，身份信息</div>
+<div class="mod" style="display: none;">更新中</div>
+</div>
+</div>
+<div class="Study_Guide"><!--学习指南-->
+
+<h3 class="Exploringthecourse">学习指南</h3>
+<div class="news"><!--消息-->
+<img src="images/Study_Guide/Illustrator.png"  width="46">
+
+
+</div><!--news-->
+<div class="Exploringthecourse_1">
+<ul class="Exploringthecourse_1_ul">
+
+<li class="Exploringthecourse_1_ul_li"><a href="https://www.iqiyi.com/a_19rrhxl511.html"><img src="images/Study_Guide/OK01.gif"  width="80"></a><p style=color:#565656;" top:10;">OK区块链60讲</p></li>
+<li class="Exploringthecourse_1_ul_li"><a href="https://m.bishijie.com/shendu/156418.html"><img src="images/Study_Guide/OK02.gif"  width="80"></a><p style=color:#565656;" top:10;">区分伪公链和骗局</p></li>
+
+<ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+</div><!--Study_Guide--><!--学习指南-->
+<div class="bottom_01">
+<a href="https://d2fjjqle8ae8y0.cloudfront.net/"><img src="images/illustration/illustration.png"  width="500"></a>
+
+</div><!--da-->
+</div><!--Intermediatecontent-->
+</div><!--ii-->
+
+
+<div class=" bottom"><!--底部-->
+
+<div class="bottom_02">
+ <div style="visibility: visible; animation-delay: 0.1s;">     <a href="https://github.com/yangbaitu/Homepage" ><img src="images/bottom/bottom_01.png"  width="50"></a></div>
+</div>
+<p style=color:#ffeadd;" top:10;">2021.3.14 tuopin.com</p>
+
+</div><!--bottom-->
+
+</div><!--tuopinshequ-->
+</body>
+</html>
+
